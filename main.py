@@ -4,7 +4,7 @@ import pandas as pd
 excel_file_path = 'report.xlsx'
 
 # Read the Excel file into a DataFrame
-df = pd.read_excel(excel_file_path)
+df = pd.read_excel(excel_file_path, header=5)
 
 # Display the DataFrame
-print(df)
+print(df.count())

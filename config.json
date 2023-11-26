@@ -1,0 +1,153 @@
+{
+    "filename": "report.xlsx",
+    "header_index": 5,
+    "col_len": 25,
+    "SUM_1": 18,
+    "SUM_2": 19,
+    "PERCENT": 20,
+    "cases": [
+        {
+            "case_name": "case 3",
+            "filters_OR": [
+                {
+                    "column": "Исполнитель",
+                    "value": "Даня Милохин"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Монеточка"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Вера Брежнева"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "White Punk, ЛСП"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Manizha"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "POLINA"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Моя Мишель"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Винтаж"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Molchat Doma"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "СЛОТ"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Нервы"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Алла Пугачев, София Ротару"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "IOWA"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Guru Groove Foundation, Егор Сесарев"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Клава Кока"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Женя Любич"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Imany"
+                },
+                {
+                    "column": "Исполнитель",
+                    "value": "Дмитрий Маликов"
+                }
+            ],
+            "filters_AND": [
+            ],
+            "filters_NOT": [
+            ],
+            "pay_percent": 0.7
+        },
+        {
+            "case_name": "case 1",
+            "filters_OR": [
+                {
+                    "column": "Исполнитель",
+                    "value": "Апрелия"
+                }
+            ],
+            "filters_AND": [
+            ],
+            "filters_NOT": [
+            ],
+            "pay_percent": 0.7
+        },
+        {
+            "case_name": "case 2",
+            "filters_OR": [
+                {
+                    "column": "Копирайт",
+                    "value": "Pancher Distribution / GROMCHE.FUN"
+                }
+            ],
+            "filters_AND": [
+            ],
+            "filters_NOT": [
+            ],
+            "pay_percent": 0.7
+        },
+        {
+            "case_name": "case 4",
+            "sub_cases": [
+                {
+                    "filters_OR": [
+                        {
+                            "column": "Исполнитель",
+                            "value": "Вика Радисева"
+                        }
+                    ],
+                    "filters_AND": [
+                    ],
+                    "filters_NOT": [
+                    ],
+                    "pay_percent": 0.7
+                },
+                {
+                    "filters_OR": [
+                        {
+                            "column": "Исполнитель",
+                            "value": "Вика Радисева"
+                        }
+                    ],
+                    "filters_AND": [
+                    ],
+                    "filters_NOT": [
+                    ],
+                    "pay_percent": 0.5
+                }
+            ]
+            
+            
+        }
+    ]
+}
